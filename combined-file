@@ -1,0 +1,22 @@
+/// file-1 contents
+
+This is the first file for my pratice repo. I am practicing pull requests, branching, merging and pushhing repos on to github via console commands.
+
+Commit 2
+
+
+Commit 3 :)
+
+////file-2M contents
+
+This is the second file for my master branch. I sucessfully pushed my master branch and branch one onto github using the command line.  
+I keep forgetting the command for switching branches. "checkout" Im trying to think of an analogy to remind me. Unsuccessful so far. 
+Next goal is up loading next commit to the master branch via this file. I wonder if I can merge this file with file-1 via command line. I will experiment :)
+
+/// conlusion
+
+Instead of trying to merge 2 seperate files i decided to make a new branch and manually make a file. I think i need to nail the basics before i start fucking around with more complicated stuff like that. 
+
+-Reflection.
+
+This was fun and straight foward once I wrapped my head around it. It took a couple tries to push from my local files to the remote ones. I think it was because I set the remote repo as privite although im not 100% sure. It started working after i changed it to public. also the commandline created what looked like a different branch called origin/master which i could only see when running the log --all --graph command. unsure what that is or what it does. I assume it had something to do with how i pushed my repo to github. unsure if that would cause problems or not. 
