@@ -1,0 +1,3 @@
+This is the second file for my master branch. I sucessfully pushed my master branch and branch one onto github using the command line.  
+I keep forgetting the command for switching branches. "checkout" Im trying to think of an analogy to remind me. Unsuccessful so far. 
+Next goal is up loading next commit to the master branch via this file. I wonder if I can merge this file with file-1 via command line. I will experiment :)
